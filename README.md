@@ -26,5 +26,7 @@ An admin user can modify the quantity ordered for each item, remove an item, or 
 - OrderDetailsModal as a Functional Component using Props, Hooks, and Validation
 
 # .Net
-- Domains include Order, OrderCost, OrderItem, OrderDetail, OrderCost, Product, Location
+- Domain classes include Order, OrderCost, OrderItem, OrderDetail, OrderCost, Product, Location, and LookUp
+- Request classes include OrderAddRequest, OrderUpdateRequest, OrderItemAddRequest, and OrderItemUpdateRequest
+- Service methods include
 
