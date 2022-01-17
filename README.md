@@ -29,4 +29,6 @@ An admin user can modify the quantity ordered for each item, remove an item, or 
 - Domains include Order, OrderCost, OrderItem, OrderDetail, OrderCost, Product, Location, and LookUp
 - Requests include OrderAddRequest, OrderUpdateRequest, OrderItemAddRequest, and OrderItemUpdateRequest
 - Service methods include OrdersService, OrderItemsService, and OrderDetailsService
+- Interfaces include IOrdersService, IOrderItemsService, and IOrderDetailsService
+- Controller is Order
 
