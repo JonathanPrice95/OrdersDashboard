@@ -25,10 +25,13 @@ An admin user can modify the quantity ordered for each item, remove an item, or 
 - OrderDetailsCard as a Functional Component using Props and Hooks
 - OrderDetailsModal as a Functional Component using Props, Hooks, and Validation
 
-# .Net
+# AXIOS CALLS
+- OrdersService.js and OrderItemsService.js
+
+# .NET
 - Domains include Order, OrderCost, OrderItem, OrderDetail, OrderCost, Product, Location, and LookUp
 - Requests include OrderAddRequest, OrderUpdateRequest, OrderItemAddRequest, and OrderItemUpdateRequest
 - Service methods include OrdersService, OrderItemsService, and OrderDetailsService
 - Interfaces include IOrdersService, IOrderItemsService, and IOrderDetailsService
-- Controller is Order
+- Controller is OrderAPIController
 
