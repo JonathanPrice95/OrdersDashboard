@@ -281,7 +281,7 @@ const OrderEditModal = (props) => {
             />
             <div className="bg-composed-wrapper--content text-center pt-6">
               <div className="text-white">
-                <h1 className="display-3 my-3 font-weight-bold">World Print</h1>
+                <h1 className="display-3 my-3 font-weight-bold">Company Name Goes Here</h1>
                 <p className="font-size-lg mb-0 px-4 text-white-60">
                   Order #{order.id}
                 </p>
