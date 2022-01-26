@@ -35,3 +35,9 @@ An admin user can modify the quantity ordered for each item, remove an item, or 
 - Interfaces include IOrdersService, IOrderItemsService, and IOrderDetailsService
 - Controller is OrderAPIController
 
+# SQL
+- Basic procedures for Orders, OrderItems, OrderCosts, and peripheral tables per proc names in .Net
+- Creating, Updating, and deleting orders and order items includes automated adjustments to inventories and costs
+- Inserting an order from the shopping cart uses a UDT to batch insert order items
+- Searching by Customer Name returns both first name and last name matches
+
