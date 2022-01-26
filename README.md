@@ -4,7 +4,7 @@
 - Back End: Microsoft SQL
 
 # SUMMARY
-The orders dashboard contains the following features:
+The orders dashboard contains the following features that were developed for a T-shirt silkscreen company to administratively process and track order fulfillment:
 - A Dashboard Table with Order #/Date, Customer, Order Amount, Payment Info, Tracking #, and Status.  The pagination includes three preset values of 5, 15, and 30 orders per page.  The search bar will query an order # or a customer name.  The order status filter includes Pending, Completed, Rejected, Processing, and Cancelled.
 - Actions available to an Administrative User include Deleting an Order, Updating an Order, or Modifying the Order Details.
 
